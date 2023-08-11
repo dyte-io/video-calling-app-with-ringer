@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929375631665",
+    "project_id": "ringer-d9eef",
+    "storage_bucket": "ringer-d9eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929375631665:android:298da14b5182c295dfd810",
+        "android_client_info": {
+          "package_name": "com.ringer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929375631665-tq8uu5713f1a1kcnefso456cigq80mrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xIsfIUG92d_LIyYXj_iTRvkqGYArqEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929375631665-tq8uu5713f1a1kcnefso456cigq80mrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
